@@ -1,0 +1,16 @@
+{
+  "name": "the-office-trivia-game",
+  "version": "1.0.0",
+  "description": "This is a CLI app on the show The Office (US Version)",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
